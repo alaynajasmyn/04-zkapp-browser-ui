@@ -206,11 +206,11 @@ a {
 	background-image: url(/04-zkapp-browser-ui/_next/static/media/getLoading.fc807d4d.gif);
 	background-repeat: no-repeat;
 	background-size: cover;
-	width: 180px;
-	height: 180px;
+	width: 250px;
+	height: 250px;
 	position: absolute;
-	left: 515px;
-	top: 350px;
+	left: 330px;
+	top: 110px;
 }
 
 .Home_sendLoading__Zkd01 {
